@@ -31,5 +31,5 @@ Demonstrar a aplicação prática do padrão Mediator no gerenciamento de tráfe
 - **Maicon Felipe**
 - **Nirielly Brito**
 
-📌 *Este projeto foi desenvolvido como parte da disciplina de Programação para Dispositivos Móveis (PDM).*
+📌 *Este projeto foi desenvolvido como parte da disciplina de Padrões de Projeto de Software(PPS).*
 
